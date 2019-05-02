@@ -1,0 +1,16 @@
+{
+  "name": "jest-rn-repro",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-native": "^0.59.6"
+  },
+  "devDependencies": {
+    "babel-jest": "^24.7.1",
+    "jest": "^24.7.1",
+    "metro-react-native-babel-preset": "^0.54.0",
+    "react-native-dotenv": "^0.2.0"
+  }
+}
